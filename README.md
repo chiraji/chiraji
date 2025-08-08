@@ -1,15 +1,29 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Chiraji Dilipun</h1>
-<h3 align="center">I'm an undergraduate student in Network & Security Technologies at South Eastern University of Sri Lanka.ologies at South Eastern University of Sri Lanka. developer from India</h3>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chiraji&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraji&label=Profile%20views&color=0e75b6&style=flat" alt="chiraji" /> </p>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **MERN**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiraji" alt="chiraji" /></a> </p>
+- 🧑‍🎓 I’m an Undergraduate at **South Easter University of Sri Lanka**
 
-- 🌱 I’m currently learning **Cyber Security**
-
-- 💬 Ask me about **Network Design, Sql, Java, C++, JavaScript**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **hchiraji@gmail.com**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +41,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
   <br>
-
+<h3 align="center">My Statistics:</h3>
   
   
   
@@ -50,7 +64,11 @@
   </td>
 </tr>
 </table>
+
 <br>
+  <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 
 
